@@ -1,0 +1,87 @@
+ALEXANDER GROSSMAN
+20 Broad St, Apt 2008, New York, NY 10005
+(516) 512-4700 | alexandergrossman38@gmail.com
+
+Citizenship: United States
+Veterans' Preference: None
+Highest Federal Grade Held: None
+Availability: Full-time, permanent
+Desired Location: Suitland, MD
+
+PROFESSIONAL SUMMARY
+Cybersecurity graduate student with investigative internship experience in a government oversight environment. Trained in structured analytic techniques and threat analysis frameworks through graduate coursework. Seeking GS-0132-12 Cyber Intelligence Analyst role to support intelligence production and investigative analysis under supervision.
+
+ANALYTICAL PRODUCTS (ACADEMIC)
+- Threat assessment reports produced in CISC 5770 using Structured Analytic Techniques and MITRE ATT&CK, Cyber Kill Chain, and Diamond Model frameworks
+- Structured analytic products (e.g., ACH, Key Assumptions Check) evaluating adversary behaviors and likely courses of action
+- Investigative memos prepared during DOI internship summarizing findings and recommending next steps
+
+EDUCATION
+M.S., Cybersecurity                                  Jan 2025 - May 2026 (expected)
+Fordham University, Graduate School of Arts and Sciences
+Fordham Center for Cybersecurity
+New York, NY
+GPA: 4.0
+
+M.S., Physical Education                             Dec 2020
+Hofstra University
+Hempstead, NY
+GPA: 3.88, With Distinction
+
+B.S., Sport Management                               May 2017
+Syracuse University, Falk College of Sport and Human Dynamics
+Syracuse, NY
+GPA: 3.167
+Minor: Education Studies
+
+RELEVANT COURSEWORK (VERIFIED)
+Intelligence in Cybersecurity (CISC 5770)
+- Applied Structured Analytic Techniques (SAT) in coursework
+- Applied MITRE ATT&CK, Cyber Kill Chain, and Diamond Model frameworks in academic analyses
+
+Network Essentials (CISC 5009)
+- Conducted packet capture and analysis using Wireshark in controlled lab settings
+- Performed network reconnaissance exercises using Nmap in controlled lab settings
+
+Additional coursework: Cloud Computing (CISC 5550), Information Security and Ethics (CISC 5750), Cloud Computing Security (CISC 6600), Wireless Security (CISC 6630), Privacy and Security in Big Data (CISC 6640)
+
+EXPERIENCE
+Investigative Intern                                 Jun 2025 - Aug 2025
+NYC Department of Investigation
+180 Maiden Lane, New York, NY 10038
+Hours/Week: 40 | Salary: Unpaid | May Contact: No
+Supervisor: Available Upon Request
+- Supported complex construction fraud investigations involving contractor fraud during Rikers Island Jail renovations
+- Conducted document review and analysis to identify patterns of fraudulent activity and regulatory non-compliance
+- Assisted in field operations including site visits, witness interviews, and evidence collection at active construction sites
+- Drafted investigative memos summarizing findings, analyzing evidence, and recommending next steps for senior investigators
+- Collaborated with NYPD, Department of Buildings, and other city agencies to coordinate investigative efforts
+
+Acting Project Manager/Superintendent                  Aug 2021 - Present
+Henick-Lane
+Long Island City, NY
+Hours/Week: 40 | Salary: $75,000/year | May Contact: Yes
+Supervisor: Ernie Henick, 917-836-5767
+- Managed critical infrastructure projects for high-rise buildings (21-68 floors) with budgets ranging from $20M to $50M+
+- Synchronized operations across teams of up to 40 cross-functional personnel
+- Independently oversaw day-to-day operations of union and non-union laborers
+- Maintained detailed project records and generated comprehensive status reports
+- Ensured adherence to building codes, safety regulations, and contractual obligations
+
+Physical Education Teacher                             Sep 2020 - Jun 2021
+NYC Department of Education
+New York, NY
+Hours/Week: 40 | Salary: Unpaid | May Contact: Yes
+Supervisor: [CONFIRM NAME]
+- Designed and implemented comprehensive physical education curriculum for diverse student populations
+- Assessed student performance and provided individualized feedback
+- Maintained detailed records of student progress and developed assessment tools
+- Collaborated with faculty and administration to integrate wellness programs
+- Adapted teaching strategies to accommodate students with varying abilities
+
+TECHNICAL SKILLS (VERIFIED)
+Network Analysis: Wireshark (academic lab), Nmap (academic lab)
+Analytical Frameworks: MITRE ATT&CK, Cyber Kill Chain, Diamond Model, Structured Analytic Techniques (academic use)
+
+CLEARANCE ELIGIBILITY
+Eligible to obtain Top Secret/SCI clearance. No foreign contacts, financial issues, or other factors that would impede clearance adjudication.

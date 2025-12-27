@@ -1,0 +1,29 @@
+TITLE: Targeting of Navy/USMC Logistics and Maintenance Systems by State-Backed Actors
+DATE: [Insert Submission Date]
+CLASSIFICATION: UNCLASSIFIED (Academic Exercise)
+
+BOTTOM LINE UP FRONT (BLUF)
+State-backed cyber actors continue to target defense logistics and maintenance ecosystems to gain insight into readiness, sustainment, and deployment timelines. Access to these data can enable adversaries to anticipate operational tempo and identify supply-chain vulnerabilities that could be exploited during periods of heightened tension.
+
+KEY JUDGMENTS
+- State-backed actors prioritize access to logistics and maintenance data to build strategic intelligence on U.S. force readiness. (Confidence: Moderate)
+- Targeting is likely to focus on credential access, third-party contractors, and peripheral business systems rather than core weapons platforms. (Confidence: Moderate)
+- Compromise of maintenance or logistics environments could enable operational disruption or long-term intelligence collection rather than immediate destructive effects. (Confidence: Low-Moderate)
+
+DISCUSSION
+Open-source reporting shows persistent cyber espionage activity directed at defense-industrial organizations and their contractor ecosystems. Logistics and maintenance systems are high-value targets because they consolidate data on parts availability, maintenance schedules, and readiness posture. These systems often depend on distributed contractor networks and third-party software, creating additional access points for adversaries.
+
+Analytically, many observed intrusions into defense-adjacent environments begin with credential access, phishing, or exploitation of internet-facing systems. Such access can yield durable visibility into operational support systems without the need to penetrate highly secured mission networks. This aligns with observed TTPs from state-backed groups focused on long-term intelligence collection rather than immediate disruption.
+
+Alternative explanations include broad collection against defense industry networks without specific naval intent. However, the strategic value of sustainment and readiness data suggests that logistics and maintenance systems remain priority collection targets.
+
+OUTLOOK
+Over the next 6-12 months, state-backed actors will likely continue efforts to obtain credential access to DoD-adjacent networks and contractor environments supporting logistics and maintenance. Modernization initiatives and cloud migrations may introduce new access vectors, increasing the need for monitoring, identity hardening, and contractor security compliance.
+
+SOURCES (UNCLASSIFIED)
+- CISA, "Known Exploited Vulnerabilities Catalog" (living document; accessed [date])
+- CISA, "Cross-Sector Cybersecurity Performance Goals (CPGs)," 2023
+- DoD CIO, "Defense Industrial Base Cybersecurity (DIB CS) Program" public overview
+- Verizon, "2024 Data Breach Investigations Report (DBIR)," 2024
+- Microsoft, "Digital Defense Report 2024," 2024
+- Mandiant (Google Cloud), "M-Trends 2024," 2024

@@ -1,0 +1,26 @@
+Alexander Grossman
+20 Broad St, Apt 2008
+New York, NY 10005
+(516) 512-4700 | alexandergrossman38@gmail.com
+
+NCIS Cyber Directorate
+Hiring Manager
+Quantico, VA
+
+Re: IT Specialist (Investigative Computer Specialist), GS-2210-11
+Announcement Number: NCIS-CYBER-2210-2025-001
+
+Dear Hiring Manager,
+
+I am applying for the IT Specialist (Investigative Computer Specialist) position, GS-2210-11, with NCIS's Cyber Directorate at Quantico. I offer graduate-level cybersecurity education (M.S. in Cybersecurity, Fordham University, 4.0 GPA; Jan 2025-May 2026 expected) and investigative internship experience with the NYC Department of Investigation (June-August 2025). This combination provides a strong foundation for entry-level forensic examiner training and supervised casework.
+
+My coursework has provided disciplined technical analysis skills relevant to digital evidence triage. In CISC 5009 (Network Essentials), I conducted packet capture and analysis using Wireshark and performed network reconnaissance exercises using Nmap in controlled lab settings. In CISC 5770 (Intelligence in Cybersecurity), I applied structured analytic techniques and frameworks such as MITRE ATT&CK, the Cyber Kill Chain, and the Diamond Model to evaluate adversary behavior. While I have not yet used EnCase, FTK, or Cellebrite, I am prepared for formal training on industry-standard forensic tools and lab procedures.
+
+During my Investigative Intern role with the NYC Department of Investigation, I supported complex construction fraud investigations, conducted detailed document review to identify patterns of fraudulent activity and regulatory non-compliance, assisted in field operations including site visits and evidence collection, and drafted investigative memos summarizing findings for senior investigators. This experience introduced me to the operational discipline and documentation standards essential to handling evidentiary material in a law-enforcement setting.
+
+NCIS's Cyber Directorate mission-to protect Department of the Navy networks, personnel, and operations-aligns with my commitment to public service. I am prepared for the pace and demands of the Quantico laboratory environment, including rapid response and travel requirements as needed.
+
+I am a U.S. citizen and eligible to obtain Top Secret/SCI clearance. No foreign contacts, financial issues, or other factors would impede clearance adjudication. Thank you for your consideration. I welcome the opportunity to discuss how I can contribute to NCIS's forensic operations.
+
+Respectfully,
+Alexander Grossman
