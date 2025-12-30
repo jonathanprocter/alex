@@ -1,0 +1,44 @@
+ALEXANDER GROSSMAN
+20 Broad St, Apt 2008, New York, NY 10005 | (516) 512-4700 | alexandergrossman38@gmail.com
+
+Citizenship: United States | Veterans' Preference: None | Highest Federal Grade Held: None
+Availability: Full-time, permanent | Desired Location: Quantico, VA
+
+PROFESSIONAL SUMMARY
+Cybersecurity graduate student with investigative internship experience in government oversight environment. Trained in network analysis, packet capture techniques, and digital forensic methodologies through graduate coursework at Fordham University's Center for Cybersecurity. Seeking GS-2210-11 IT Specialist (Investigative Computer Specialist) role with Naval Criminal Investigative Service (NCIS) to support digital forensic examinations and investigative computer operations. Prepared for formal training on industry-standard forensic tools. Eligible for Top Secret/SCI clearance with no impediments to adjudication.
+
+EDUCATION
+M.S., Cybersecurity, Jan 2025 - May 2026 (expected), Fordham University, Graduate School of Arts and Sciences, Fordham Center for Cybersecurity, New York, NY, GPA: 4.0
+
+M.S., Physical Education, Dec 2020, Hofstra University, Hempstead, NY, GPA: 3.88, With Distinction
+
+B.S., Sport Management, May 2017, Syracuse University, Falk College of Sport and Human Dynamics, Syracuse, NY, GPA: 3.167, Minor: Education Studies
+
+RELEVANT COURSEWORK
+Network Essentials (CISC 5009): Packet capture and analysis using Wireshark; network reconnaissance using Nmap in controlled lab settings.
+
+Intelligence in Cybersecurity (CISC 5770): Applied Structured Analytic Techniques (SAT), MITRE ATT&CK, Cyber Kill Chain, and Diamond Model frameworks.
+
+Additional coursework: Cloud Computing, Information Security and Ethics, Cloud Computing Security, Wireless Security, Privacy and Security in Big Data
+
+EXPERIENCE
+Investigative Intern, Jun 2025 - Aug 2025
+NYC Department of Investigation (DOI), 180 Maiden Lane, New York, NY 10038
+Hours/Week: 40 | Salary: Unpaid | May Contact: No | Supervisor: Available Upon Request
+• Supported construction fraud investigations involving contractor fraud during Rikers Island Jail renovations, conducting document review and analysis to identify patterns of fraudulent activity and regulatory non-compliance
+• Assisted in field operations including site visits, witness interviews, and evidence collection, maintaining proper documentation and chain of custody standards in law enforcement environment
+• Drafted investigative memos summarizing findings and recommending next steps for senior investigators, demonstrating ability to produce clear, actionable investigative reports
+• Collaborated with NYPD, NYC Department of Buildings, and other city agencies to coordinate multi-agency investigative efforts
+
+Acting Project Manager/Superintendent, Aug 2021 - Present
+Henick-Lane, Long Island City, NY
+Hours/Week: 40 | Salary: $75,000/year | May Contact: Yes | Supervisor: Ernie Henick, 917-836-5767
+• Manage critical infrastructure projects for high-rise buildings (21-68 floors) with budgets ranging from $20M to $50M+, synchronizing operations across teams of up to 40 personnel
+• Oversee day-to-day operations maintaining detailed project records and generating comprehensive status reports for stakeholders and regulatory compliance
+• Ensure adherence to building codes, safety regulations, and contractual obligations in complex environments requiring meticulous attention to detail
+
+TECHNICAL SKILLS
+Network Analysis: Wireshark, Nmap | Analytical Frameworks: MITRE ATT&CK, Cyber Kill Chain, Diamond Model, Structured Analytic Techniques | Digital Investigation: Document analysis, evidence handling, investigative report writing, chain of custody procedures
+
+CLEARANCE ELIGIBILITY
+Eligible to obtain Top Secret/SCI clearance. U.S. citizen with no foreign contacts, financial issues, or other factors that would impede clearance adjudication.
